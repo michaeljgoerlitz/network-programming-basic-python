@@ -1,0 +1,6 @@
+Hey everyone!
+
+How's it going? This is an email sent with Python.
+
+Take care,
+Michael
